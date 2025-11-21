@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte da formação Python da [DIO](https://w
 
 1. Clone o repositório:
    ```bash
-    git clone https://github.com/flpzht/sdesafio-conta-bancaria.git
+    git clone https://github.com/flpzht/desafio-conta-bancaria.git
 
 
 ## 🛠 Melhorias Futuras
